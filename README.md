@@ -9,7 +9,7 @@ The files in this repo are a framework I developed for training and utilizing a 
 
 I have created a custome dataset with vehicle images extracted from the videos captured at two junctions in the country of Bosnia.
 
-[](images/2020-10-08.png)
+![](images/2020-10-08.png)
 
 # Project Overview
 
@@ -19,6 +19,6 @@ I have created a custome dataset with vehicle images extracted from the videos c
     For feature extraction, convert images to grey scale, select the desired channels, then extract HOG, color histogram, and spatial features.
     Detect and draw bounding boxes around objects in a video using a sliding window and smoothed heatmap, and also ID the vehicle detected.
     
-   [](images/2020-08-06%20(3).png)
+   ![](images/2020-08-06%20(3).png)
 
 
