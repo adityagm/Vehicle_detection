@@ -9,7 +9,7 @@ The files in this repo are a framework I developed for training and utilizing a 
 
 I have created a custome dataset with vehicle images extracted from the videos captured at two junctions in the country of Bosnia.
 
-![](images/2020-10-08.png)
+![](images/2020-10-08%20(2).png)
 
 # Project Overview
 
